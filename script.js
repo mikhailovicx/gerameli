@@ -9,9 +9,9 @@
   /* foto asli menu — file-nya ada di folder images/.
      Kosongkan nilainya ("") untuk kembali memakai ilustrasi bawaan. */
   var FOTO = {
-    "gor-og":  "images/gor-og.jpg",
-    "bas-ped": "images/bas-ped.jpg",
-    "bas-spe": "images/bas-spe.jpg"
+    "gor-og":  "images/lumpiagoreng-og.jpg",
+    "bas-ped": "images/lumpia-pedas.jpg",
+    "bas-spe": "images/lumpia-spesial.jpg"
   };
 
   var MENU = [
